@@ -1,1 +1,1 @@
-# ScrapyTest
+# learn scrapy for web scraping
